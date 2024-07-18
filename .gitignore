@@ -5,6 +5,10 @@
 # Session Data files
 .RData
 .RDataTmp
+.DS_Store
+
+# Project file
+DesignAnalysis.Rproj
 
 # User-specific files
 .Ruserdata
