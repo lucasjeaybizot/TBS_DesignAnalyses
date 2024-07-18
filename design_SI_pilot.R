@@ -6,7 +6,7 @@
 # It will take as input the effect sizes found in the pilot analyses and run
 # Monte Carlo simulations to determine the distribution of studies that would
 # find an effect with such an effect size using a Bayesian Sequential Sampling
-# design a maximal sample size.
+# design with a maximal sample size.
 
 
 # References: Schönbrodt, F. D. & Stefan, A. M. (2019). BFDA: An R package for
